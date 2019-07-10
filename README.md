@@ -1,2 +1,4 @@
 # Transfer-Learning
-Transfer Learning Test on Newsgroup data
+Transfer Learning Test 
+ULMFiT & BERT on Newsgroup data
+
